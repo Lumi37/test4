@@ -1,4 +1,4 @@
-import { json } from "body-parser"
+
 
 let fieldUsername = document.querySelector("input[type='text']")
 let fieldPassword = document.querySelector("input[type='password']")
