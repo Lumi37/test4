@@ -1,5 +1,5 @@
 import express from 'express'
-import { appendFile } from 'fs';
+import fs from 'fs/promises'
 
 const serverApp = express();
 serverApp.listen(3000, "listens to 3000");
