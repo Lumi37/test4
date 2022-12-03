@@ -2,7 +2,7 @@
   "dependencies": {
     "express": "^4.18.2"
   },
-  "type":"module"
+  "type": "module",
   "name": "test4",
   "version": "1.0.0",
   "main": "index.js",
