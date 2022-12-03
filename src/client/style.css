@@ -1,0 +1,26 @@
+body {
+    background-color: royalblue;
+}
+
+label {
+    background-color: tomato;
+    border: 1px solid black;
+    border-radius: 15px;
+    padding: 10px;
+
+}
+
+input {
+    width: 95px;
+    margin: 10px;
+}
+
+button {
+    border-radius: 25px;
+    background-color: tomato
+}
+
+button:hover {
+    background-color: rgb(255, 167, 152);
+    cursor: pointer;
+}
